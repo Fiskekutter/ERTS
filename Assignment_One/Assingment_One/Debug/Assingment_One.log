@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assingment_One.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  ModuleSingle.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  Generating Code...
+  Assingment_One.vcxproj -> C:\Users\45311\source\repos\embedded-rt\Soren\Assignment_One\Debug\Assignment_One.exe
